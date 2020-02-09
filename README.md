@@ -7,11 +7,17 @@ EmptyFolderNuker
 
 # Other Reccomended Tools
 
-Comprehensive Debloater with Blacklist and many other features
+Control so many privacy settings and tweaks
+https://github.com/mirinsoft/debotnet
+
+Debloater with Blacklist and many other features
 https://github.com/Sycnex/Windows10Debloater
 
 Reccomended by privacytools.io
 https://github.com/crazy-max/WindowsSpyBlocker
+
+Another option for controlling privacy settings
+https://www.w10privacy.de/english-home/
 
 # You shouldn't use Windows 10 in the first place
 
