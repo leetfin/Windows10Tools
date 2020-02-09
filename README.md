@@ -4,6 +4,8 @@ Debloat and Patch files for many known Windows 10 issues.
 # Included 3rd-Party Tools
 
 EmptyFolderNuker
+Rufus Portable
+Border Stripper
 
 # Other Reccomended Tools
 
