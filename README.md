@@ -5,6 +5,10 @@ Debloat and Patch files for many known Windows 10 issues.
 
 EmptyFolderNuker
 
+Rufus Portable
+
+Border Stripper
+
 # Other Reccomended Tools
 
 Control so many privacy settings and tweaks
