@@ -1,2 +1,2 @@
-# Windows10BatchDebloater
-A debloater using batch scripts. Uses code from a lost source.
+# Windows10Tools
+Debloat and Patch files for many known Windows 10 issues.
