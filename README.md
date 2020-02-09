@@ -3,6 +3,8 @@ Debloat/Patch files for many known Windows 10 issues, as well as useful utilitie
 
 Efforts will be made to keep this from falling into oblivion like most Win10 debloaters.
 
+All scripts need to be run as admin to work.
+
 # Included 3rd-Party Tools
 
 EmptyFolderNuker
