@@ -1,5 +1,5 @@
 # Windows10Tools
-Debloat and Patch files for many known Windows 10 issues.
+Debloat/Patch files for many known Windows 10 issues, as well as useful utilities.
 
 # Included 3rd-Party Tools
 
