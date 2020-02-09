@@ -1,3 +1,4 @@
+# Script from https://github.com/L33Tech/Windows10Toolsb - Code snippets from unknown source
 @echo off
 color 17
 echo *** Uninstall OneDrive ***
