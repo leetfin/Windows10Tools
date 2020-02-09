@@ -9,3 +9,10 @@ EmptyFolderNuker
 
 Comprehensive Debloater with Blacklist and many other features
 https://github.com/Sycnex/Windows10Debloater
+
+Reccomended by privacytools.io
+https://github.com/crazy-max/WindowsSpyBlocker
+
+# You shouldn't use Windows 10 in the first place
+
+https://www.privacytools.io/operating-systems/#win10
