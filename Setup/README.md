@@ -1,6 +1,6 @@
 # Installers for setting up new windows install
 
-# Only use ninite if installing normally to C: Drive!
+# Only use ninite if installing to C: Drive!
 
 Ninite: https://ninite.com/.net4.8-adoptjdkx11-adoptjdkx8-audacity-discord-filezilla-firefox-handbrake-malwarebytes-notepadplusplus-python-qbittorrent-spotify-steam-vlc-winrar/
 
@@ -16,6 +16,9 @@ https://github.com/ytdl-org/youtube-dl/releases
 
 https://github.com/streamlink/streamlink/releases
 
+https://github.com/abbodi1406/vcredist/releases
+
+https://github.com/MultiMC/MultiMC5/releases
 
 # Non-GitHub Links
 
