@@ -1,4 +1,10 @@
+rem from https://github.com/adolfintel/Windows10-Privacy and https://github.com/L33Tech/Windows10Tools/
+@echo off
+title Remove Telemetry
+echo Are you sure you would like to continue?
+echo Please make sure that you ran this as admin.
 pause
+@echo on
 sc delete DiagTrack
 sc delete dmwappushservice
 sc delete WerSvc
@@ -38,4 +44,6 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v "N
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\CompatTelRunner.exe" /v Debugger /t REG_SZ /d "%windir%\System32\taskkill.exe" /f
 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DeviceCensus.exe" /v Debugger /t REG_SZ /d "%windir%\System32\taskkill.exe" /f
 pause
+@echo off
+echo Operations should be complete.
 pause
