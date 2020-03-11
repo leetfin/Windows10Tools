@@ -32,9 +32,6 @@ https://www.w10privacy.de/english-home/
 Checksum-based file deduplication
 http://www.clonespy.com/
 
-# Consider switching to a different OS?
-
-https://www.privacytools.io/operating-systems/#win10
 
 # Outdated, but still helpful resources
 
@@ -49,3 +46,6 @@ https://github.com/equk/windows
 
 https://github.com/TranslucentTB/TranslucentTB - Make the taskbar a lot better
 
+# Consider switching to a different OS?
+
+https://www.privacytools.io/operating-systems/#win10
