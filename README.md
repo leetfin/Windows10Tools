@@ -29,7 +29,10 @@ https://github.com/crazy-max/WindowsSpyBlocker
 Another option for controlling privacy settings
 https://www.w10privacy.de/english-home/
 
-# You shouldn't use Windows 10 in the first place
+Checksum-based file deduplication
+http://www.clonespy.com/
+
+# Consider switching to a different OS?
 
 https://www.privacytools.io/operating-systems/#win10
 
@@ -44,5 +47,5 @@ https://github.com/equk/windows
 
 # Other things that are pretty cool
 
-https://github.com/TranslucentTB/TranslucentTB - Improve taskbar
+https://github.com/TranslucentTB/TranslucentTB - Make the taskbar a lot better
 
