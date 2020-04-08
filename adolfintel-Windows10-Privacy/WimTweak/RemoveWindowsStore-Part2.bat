@@ -1,3 +1,8 @@
+@echo off
+REM This script is a part of Windows10Tools. Find it here: https://github.com/L33Tech/Windows10Tools
+REM This script is a port from https://github.com/adolfintel/Windows10-Privacy. All credit to adolfintel.
+title Windows10Tools - Windows10Privacy - Remove Windows Store Part 2
+@echo on
 install_wim_tweak /o /c Microsoft-Windows-ContentDeliveryManager /r
 install_wim_tweak /o /c Microsoft-Windows-Store /r
 reg add "HKLM\Software\Policies\Microsoft\WindowsStore" /v RemoveWindowsStore /t REG_DWORD /d 1 /f
