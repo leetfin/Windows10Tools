@@ -46,6 +46,6 @@ https://github.com/equk/windows
 
 https://github.com/TranslucentTB/TranslucentTB - Make the taskbar a lot better
 
-# Consider switching to a different OS?
+# Whats wrong with Windows 10 in the first place?
 
 https://www.privacytools.io/operating-systems/#win10
