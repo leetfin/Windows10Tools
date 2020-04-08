@@ -1,5 +1,7 @@
 # Script from https://github.com/L33Tech/Windows10Toolsb - Code snippets from unknown source
+REM This script is a part of Windows10Tools. Find it here: https://github.com/L33Tech/Windows10Tools
 @echo off
+title Windows10Tools - OneDrive Uninstaller
 color 17
 echo *** Uninstall OneDrive ***
 echo ==========================
