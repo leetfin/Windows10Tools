@@ -2640,112 +2640,112 @@
 0.0.0.0 ns2.edgecastcdn.net
 0.0.0.0 ns1.edgecastcdn.net
 
-This section ported from https://github.com/gasull/adblock-nsa
-||bgl1dr1-a-fixed.sancharnet.in
-||bgl1pp1-a-fixed.sancharnet.in
-||bj02.cww.com
-||butt-head.mos.ru
-||dcproxy1.thrunet.com
-||dmn2.bjpeu.edu.cn
-||dns2.net1.it
-||doors.co.kr
-||enterprise.telesat.com.co
-||eol1.egyptonline.com
-||fw433.npic.ac.cn
-||gambero3.cs.tin.it
-||gate.technopolis.kirov.ru
-||hakuba.janis.or.jp
-||imms1.macau.ctm.net
-||indy.fjmu.edu.cn
-||jur.unn.ac.ru
-||kacstserv.kacst.edu.sa
-||kacstserv.kacst.edu.sa
-||known.counsellor.gov.cn
-||kserv.krldysh.ru
-||laleh.itrc.ac.ir
-||m0-s.san.ru
-||mail-gw.jbic.go.jp
-||mail.bangla.net
-||mail.edi.edu.cn
-||mail.hallym.ac.kr
-||mail.hangzhouit.gov.cn
-||mail.hz.zh.cn
-||mail.imamu.edu.sa
-||mail.interq.or.jp
-||mail.ioc.ac.ru
-||mail.issas.ac.cn
-||mail.pmo.ac.cn
-||mail.siom.ac.cn
-||mail.tropmet.res.in
-||mail.tsinghua.edu.cn
-||mail.zzu.edu.cn
-||mail1.371.net
-||mailgate.sbell.com.cn
-||mailgw.thtf.com.cn
-||mailhub.minaffet.gov.rw
-||mails.cneic.com.cn
-||mailscan3.cau.ctm.net
-||mailsrv02.macau.ctm.net
-||mailsvra.macau.ctm.net
-||mbi3.kuicr.kyoto-u.ac.jp
-||mcd-su-2.mos.ru
-||metcoc5cm.clarent.com
-||mipsa.ciae.ac.cn
-||mn.mn.co.cu
-||most.cob.net.ba
-||mpkhi-bk.multi.net.pk
-||msgstore2.pldtprv.net
-||mtccsun.imtech.ernet.in
-||mx1.freemail.ne.jp
-||n02.unternehmen.com
-||nd11mx1-a-fixed.sancharnet.in
-||ndl1mc1-a-fixed.sancharnet.in
-||ndl1mx1-a-fixed.sancharnet.in
-||ndl1pp1-a-fixed.sancharnet.in
-||no1.unternehemen.com
-||no3.unternehmen.org
-||ns.cac.com.cn
-||ns.huawei.com.cn
-||ns.nint.ac.cn
-||ns1.2911.net
-||ns1.multi.net.pk
-||ns2.rosprint.ru
-||ns2.xidian.edu.cn
-||opcwdns.opcw.nl
-||opserver01.iti.net.pk
-||orange.npix.net
-||orion.platino.gov.ve
-||outweb.nudt.edu.cn
-||pdns.nudt.edu.cn
-||petra.nic.gov.jo
-||pop.net21pk.com
-||post.netchina.com.cn
-||postbox.mos.ru
-||public2.zz.ha.cn
-||rayo.pereira.multi.net.co
-||sea.net.edu.cn
-||sea.net.edu.cn
-||sedesol.sedesol.gob.mx
-||segob.gob.mx
-||sky.kies.co.kr
-||smmu-ipv6.smmu.edu.cn
-||smtp.2911.net
-||smtp.macau.ctm.net
-||sonatns.sonatrach.dz
-||sparc.nour.net.sa
-||sps01.office.ctm.net
-||sunhe.jinr.ru
-||sussi.cressoft.com.pk
-||tx.micro.net.pk
-||ultra2.tsinghua.edu.cn
-||unk.vver.kiae.rr
-||unknown.counsellor.gov.cn
-||voyager1.telesat.com.co
-||web-ccfr.tsinghua.edu.cn
-||webnetra.entelnet.bo
-||webserv.mos.ru
-||ws.xjb.ac.cn
-||www.caramail.com
-||www.siom.ac.cn
-||www21.counsellor.gov.cn
-||www21.counsellor.gov.cn
+# This section ported from https://github.com/gasull/adblock-nsa
+0.0.0.0 bgl1dr1-a-fixed.sancharnet.in
+0.0.0.0 bgl1pp1-a-fixed.sancharnet.in
+0.0.0.0 bj02.cww.com
+0.0.0.0 butt-head.mos.ru
+0.0.0.0 dcproxy1.thrunet.com
+0.0.0.0 dmn2.bjpeu.edu.cn
+0.0.0.0 dns2.net1.it
+0.0.0.0 doors.co.kr
+0.0.0.0 enterprise.telesat.com.co
+0.0.0.0 eol1.egyptonline.com
+0.0.0.0 fw433.npic.ac.cn
+0.0.0.0 gambero3.cs.tin.it
+0.0.0.0 gate.technopolis.kirov.ru
+0.0.0.0 hakuba.janis.or.jp
+0.0.0.0 imms1.macau.ctm.net
+0.0.0.0 indy.fjmu.edu.cn
+0.0.0.0 jur.unn.ac.ru
+0.0.0.0 kacstserv.kacst.edu.sa
+0.0.0.0 kacstserv.kacst.edu.sa
+0.0.0.0 known.counsellor.gov.cn
+0.0.0.0 kserv.krldysh.ru
+0.0.0.0 laleh.itrc.ac.ir
+0.0.0.0 m0-s.san.ru
+0.0.0.0 mail-gw.jbic.go.jp
+0.0.0.0 mail.bangla.net
+0.0.0.0 mail.edi.edu.cn
+0.0.0.0 mail.hallym.ac.kr
+0.0.0.0 mail.hangzhouit.gov.cn
+0.0.0.0 mail.hz.zh.cn
+0.0.0.0 mail.imamu.edu.sa
+0.0.0.0 mail.interq.or.jp
+0.0.0.0 mail.ioc.ac.ru
+0.0.0.0 mail.issas.ac.cn
+0.0.0.0 mail.pmo.ac.cn
+0.0.0.0 mail.siom.ac.cn
+0.0.0.0 mail.tropmet.res.in
+0.0.0.0 mail.tsinghua.edu.cn
+0.0.0.0 mail.zzu.edu.cn
+0.0.0.0 mail1.371.net
+0.0.0.0 mailgate.sbell.com.cn
+0.0.0.0 mailgw.thtf.com.cn
+0.0.0.0 mailhub.minaffet.gov.rw
+0.0.0.0 mails.cneic.com.cn
+0.0.0.0 mailscan3.cau.ctm.net
+0.0.0.0 mailsrv02.macau.ctm.net
+0.0.0.0 mailsvra.macau.ctm.net
+0.0.0.0 mbi3.kuicr.kyoto-u.ac.jp
+0.0.0.0 mcd-su-2.mos.ru
+0.0.0.0 metcoc5cm.clarent.com
+0.0.0.0 mipsa.ciae.ac.cn
+0.0.0.0 mn.mn.co.cu
+0.0.0.0 most.cob.net.ba
+0.0.0.0 mpkhi-bk.multi.net.pk
+0.0.0.0 msgstore2.pldtprv.net
+0.0.0.0 mtccsun.imtech.ernet.in
+0.0.0.0 mx1.freemail.ne.jp
+0.0.0.0 n02.unternehmen.com
+0.0.0.0 nd11mx1-a-fixed.sancharnet.in
+0.0.0.0 ndl1mc1-a-fixed.sancharnet.in
+0.0.0.0 ndl1mx1-a-fixed.sancharnet.in
+0.0.0.0 ndl1pp1-a-fixed.sancharnet.in
+0.0.0.0 no1.unternehemen.com
+0.0.0.0 no3.unternehmen.org
+0.0.0.0 ns.cac.com.cn
+0.0.0.0 ns.huawei.com.cn
+0.0.0.0 ns.nint.ac.cn
+0.0.0.0 ns1.2911.net
+0.0.0.0 ns1.multi.net.pk
+0.0.0.0 ns2.rosprint.ru
+0.0.0.0 ns2.xidian.edu.cn
+0.0.0.0 opcwdns.opcw.nl
+0.0.0.0 opserver01.iti.net.pk
+0.0.0.0 orange.npix.net
+0.0.0.0 orion.platino.gov.ve
+0.0.0.0 outweb.nudt.edu.cn
+0.0.0.0 pdns.nudt.edu.cn
+0.0.0.0 petra.nic.gov.jo
+0.0.0.0 pop.net21pk.com
+0.0.0.0 post.netchina.com.cn
+0.0.0.0 postbox.mos.ru
+0.0.0.0 public2.zz.ha.cn
+0.0.0.0 rayo.pereira.multi.net.co
+0.0.0.0 sea.net.edu.cn
+0.0.0.0 sea.net.edu.cn
+0.0.0.0 sedesol.sedesol.gob.mx
+0.0.0.0 segob.gob.mx
+0.0.0.0 sky.kies.co.kr
+0.0.0.0 smmu-ipv6.smmu.edu.cn
+0.0.0.0 smtp.2911.net
+0.0.0.0 smtp.macau.ctm.net
+0.0.0.0 sonatns.sonatrach.dz
+0.0.0.0 sparc.nour.net.sa
+0.0.0.0 sps01.office.ctm.net
+0.0.0.0 sunhe.jinr.ru
+0.0.0.0 sussi.cressoft.com.pk
+0.0.0.0 tx.micro.net.pk
+0.0.0.0 ultra2.tsinghua.edu.cn
+0.0.0.0 unk.vver.kiae.rr
+0.0.0.0 unknown.counsellor.gov.cn
+0.0.0.0 voyager1.telesat.com.co
+0.0.0.0 web-ccfr.tsinghua.edu.cn
+0.0.0.0 webnetra.entelnet.bo
+0.0.0.0 webserv.mos.ru
+0.0.0.0 ws.xjb.ac.cn
+0.0.0.0 www.caramail.com
+0.0.0.0 www.siom.ac.cn
+0.0.0.0 www21.counsellor.gov.cn
+0.0.0.0 www21.counsellor.gov.cn
