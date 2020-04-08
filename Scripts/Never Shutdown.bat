@@ -1,6 +1,6 @@
 @echo off
 REM This script is a part of Windows10Tools. Find it here: https://github.com/L33Tech/Windows10Tools
-title Windows10Tools - Never Power Down
+title Windows10Tools - Never Shutdown
 echo Are you sure you would like to proceed?
 pause
 @echo on
