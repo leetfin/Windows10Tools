@@ -1,6 +1,8 @@
-rem from https://github.com/adolfintel/Windows10-Privacy and https://github.com/L33Tech/Windows10Tools/
 @echo off
-title Remove Telemetry
+REM This script is a part of Windows10Tools. Find it here: https://github.com/L33Tech/Windows10Tools
+REM This script is a port from https://github.com/adolfintel/Windows10-Privacy. All credit to adolfintel.
+title Windows10Tools - Windows10Privacy - Remove Telemetry
+@echo off
 echo Are you sure you would like to continue?
 echo Please make sure that you ran this as admin.
 pause

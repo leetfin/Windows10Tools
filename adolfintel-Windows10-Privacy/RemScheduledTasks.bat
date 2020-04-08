@@ -1,3 +1,8 @@
+@echo off
+REM This script is a part of Windows10Tools. Find it here: https://github.com/L33Tech/Windows10Tools
+REM This script is a port from https://github.com/adolfintel/Windows10-Privacy. All credit to adolfintel.
+title Windows10Tools - Windows10Privacy - Remove Scheduled Tasks
+@echo on
 schtasks /Change /TN "Microsoft\Windows\AppID\SmartScreenSpecific" /disable
 schtasks /Change /TN "Microsoft\Windows\Application Experience\AitAgent" /disable
 schtasks /Change /TN "Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser" /disable
@@ -36,3 +41,4 @@ schtasks /Change /TN "\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingSca
 schtasks /Change /TN "\Microsoft\Windows\Diagnosis\Scheduled" /disable
 schtasks /Change /TN "\Microsoft\Windows\NetTrace\GatherNetworkInfo" /disable
 del /F /Q "C:\Windows\System32\Tasks\Microsoft\Windows\SettingSync\*" 
+pause
