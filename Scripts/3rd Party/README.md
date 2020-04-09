@@ -14,3 +14,5 @@ https://github.com/ivaruf/w10-lockscreen-fetcher/blob/master/w10.bat
 
 https://github.com/TeslaX93/Win10LockScreenDownloader/blob/master/w10wallp.cmd
 
+https://github.com/hasnieking/Disable-Content-Delivery-Manager
+
