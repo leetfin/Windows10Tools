@@ -5,6 +5,8 @@ Efforts will be made to keep this from falling into oblivion like most Win10 deb
 
 All scripts need to be run as admin to work.
 
+100th Commit on April 19th, 2020!
+
 # Included 3rd-Party Tools
 
 EmptyFolderNuker
@@ -15,23 +17,17 @@ Border Stripper
 
 Scripts ported from https://github.com/adolfintel/Windows10-Privacy
 
-# Other Reccomended Tools
+# Other Recommended Tools
 
-Control so many privacy settings and tweaks
-https://github.com/mirinsoft/debotnet
+Control so many privacy settings and tweaks https://github.com/mirinsoft/debotnet
 
-Debloater with Blacklist and many other features
-https://github.com/Sycnex/Windows10Debloater
+Debloater with Blacklist and many other features https://github.com/Sycnex/Windows10Debloater
 
-Reccomended by privacytools.io
-https://github.com/crazy-max/WindowsSpyBlocker
+Recommended by privacytools.io https://github.com/crazy-max/WindowsSpyBlocker
 
-Another option for controlling privacy settings
-https://www.w10privacy.de/english-home/
+Another option for controlling privacy settings https://www.w10privacy.de/english-home/
 
-Checksum-based file deduplication
-http://www.clonespy.com/
-
+Checksum-based file de-duplication http://www.clonespy.com/
 
 # Outdated, but still helpful resources
 
