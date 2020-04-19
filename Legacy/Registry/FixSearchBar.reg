@@ -1,0 +1,8 @@
+﻿Windows Registry Editor Version 5.00
+# Script by L33Tech
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search]
+"AllowCortana"=dword:00000000
+"BingSearchEnabled"=dword:00000000
+"CortanaConsent"=dword:00000000
+
