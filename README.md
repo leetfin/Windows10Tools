@@ -19,6 +19,8 @@ Scripts ported from https://github.com/adolfintel/Windows10-Privacy
 
 # Other Recommended Tools
 
+Delete caches and more https://www.bleachbit.org/
+
 Control so many privacy settings and tweaks https://github.com/mirinsoft/debotnet
 
 Debloater with Blacklist and many other features https://github.com/Sycnex/Windows10Debloater
@@ -36,7 +38,6 @@ https://github.com/adolfintel/Windows10-Privacy
 https://gist.github.com/halkyon/b73fb75e61c37b7ba5f65bb6f3979f00
 
 https://github.com/equk/windows
-
 
 # Other things that are pretty cool
 
