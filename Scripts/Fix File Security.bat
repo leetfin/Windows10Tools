@@ -1,7 +1,7 @@
 @echo off
 REM This script is a part of Windows10Tools. Find it here: https://github.com/L33Tech/Windows10Tools
-REM Code snippets from unknown source.
 title Windows10Tools - File Security Repair Utility
+REM BatchGotAdmin code sourced from https://stackoverflow.com/questions/1894967/how-to-request-administrator-access-inside-a-batch-file
 :: BatchGotAdmin
 :-------------------------------------
 REM  --> Check for permissions

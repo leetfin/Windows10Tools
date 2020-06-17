@@ -3,6 +3,7 @@ REM This script is a part of Windows10Tools. Find it here: https://github.com/L3
 REM Code snippets from unknown source.
 REM This file was originally a .reg
 title Windows10Tools - Search Bar Fix
+REM BatchGotAdmin code sourced from https://stackoverflow.com/questions/1894967/how-to-request-administrator-access-inside-a-batch-file
 :: BatchGotAdmin
 :-------------------------------------
 REM  --> Check for permissions
