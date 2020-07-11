@@ -2,6 +2,7 @@
 REM This script is a part of Windows10Tools. Find it here: https://github.com/L33Tech/Windows10Tools
 REM This script is a port from https://github.com/adolfintel/Windows10-Privacy. Credit to adolfintel.
 title Windows10Tools - Windows10Privacy - Kill Windows Defender
+REM BatchGotAdmin code sourced from https://stackoverflow.com/questions/1894967/how-to-request-administrator-access-inside-a-batch-file
 :: BatchGotAdmin
 :-------------------------------------
 REM  --> Check for permissions
