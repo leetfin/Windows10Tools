@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-Patreon-blue?style=for-the-badge&logo=patreon)](https://www.patreon.com/L33Tech)
+
 # Windows10Tools
 Debloat/Patch files for many known Windows 10 issues, as well as useful utilities.
 
